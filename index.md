@@ -9,7 +9,8 @@ layout: default
 <img src="./static/imgs/logo.png" alt="Image of Comp110 rainbow logo. "  width="500"/>
 
 ## About Me
-Hi, I am Philip Roh, an exchange student attending UNC Chapel Hill.
+Hi, I am Philip Roh, an exchange student attending UNC Chapel Hill. 
+I am interested in data analysis and exploring how data can be used to improve learning experiences.
 
 ---
 
@@ -26,7 +27,7 @@ This analysis explores how prior programming experience influences students’ p
 The first step is to examine how prior programming experience relates to how difficult students perceive the course to be.
 
 <!-- INSERT GRAPH 1 HERE -->
-<img src="./static/imgs/fig1.png" alt="histogram of difficulty grouped by experience "  width="500"/>
+<img src="./static/imgs/fig1.png" alt="histogram of difficulty grouped by experience "  width="600"/>
 <!-- Example: seaborn histogram or boxplot of difficulty grouped by experience -->
 
 The visualization shows that students with more prior programming experience generally report lower levels of perceived difficulty. In contrast, students with little or no experience tend to report higher difficulty.
@@ -38,7 +39,7 @@ The visualization shows that students with more prior programming experience gen
 Next, we analyze how prior experience impacts students’ reported level of understanding.
 
 <!-- INSERT GRAPH 2 HERE -->
-<img src="./static/imgs/fig2.png" alt="bar chart of understanding grouped by experience"  width="500"/>
+<img src="./static/imgs/fig2.png" alt="bar chart of understanding grouped by experience"  width="600"/>
 <!-- Example: seaborn boxplot or bar chart of understanding grouped by experience -->
 
 This pattern is consistent: students with more experience tend to report higher levels of understanding. This reinforces the idea that prior exposure plays an important role in shaping how students engage with the course material.
@@ -50,7 +51,7 @@ This pattern is consistent: students with more experience tend to report higher 
 Although clear trends exist, it is important to examine whether these relationships are consistent across all students.
 
 <!-- INSERT GRAPH 3 HERE -->
-<img src="./static/imgs/fig3.png" alt="scatterplot or distribution plot showing spread within groups"  width="500"/>
+<img src="./static/imgs/fig3.png" alt="scatterplot or distribution plot showing spread within groups"  width="600"/>
 
 The data reveals noticeable variability within each experience group. Some students with little experience still report high understanding, while some experienced students report moderate difficulty. This suggests that prior experience is not the only factor influencing outcomes.
 
